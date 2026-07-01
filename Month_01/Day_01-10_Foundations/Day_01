@@ -1,0 +1,24 @@
+# Today, i begin with a careful review of the CIA Triad. Here is what i uderstand.
+
+The CIA here stands for Confidentiality, Integrity and AVailability. These three concepts provide a framework for security teams to implement security measures. The confidentiality , integrity and availability of day is very viatal for the operations of any organization. Therefore, security measure built around this prefered.
+
+# Confidentiality
+
+This refers to the quality of data being secret or private. It ensures that data is  only accesible to people who have the rights and given previlledges. In simple terms, it aims at preventing unauthorized access to data by the bad guys, (and good guys who have no business with the data). This can be achieved for example through access control policies, data encryption,and multi-factor authentication. 
+
+# Integrity
+
+Integrity refers to the authenticity of your data, making sure it is trust-worthy and untampered with. This important because if you date can easily be tampered with, it might end up not fulfiling its purpose. For example if you are sending me a recipe to cook your favorite meal, and some one manages to tamper with the recipe before it gets to me, maybe by removing, adding or changing some ingridients or their stated quantity. In that case i will end up with a totally different meal, or maybe something poisnous (depending on the changes made to the data). One good way of verifying the integrity of data is by using hashing algorithms. we will definitely see more on this ahead, but it is a function that returns a hash value for data, and the slightest change made to the data will lead to a totally different hash value as well, so the receipients can also compare the hash value from what they received to the original hash value, to confirm the integrity of data. This might be be tricky, but how do you securly share the hash value as well without it being tampered with? something to think about.
+
+# Availability
+
+As simple as this may sound, it is as important as the other components. It ensures that data, systems, networks etc, should be available when needed. Data can be confidential with full integrity, but it will be of no use if it is unavailable when needed. That is how important availability. Common attacks that targets this availability are "Denial of service attack" and "Ransomware". Organizations can protect availability by having backups and redundant networks.
+
+When the Confidentiality, Integrity and Availaility of data are fully met, then the organization is in a fairly good security standing. 
+
+
+# sources
+
+
+https://www.fortinet.com/resources/cyberglossary/cia-triad
+https://www.youtube.com/watch?v=SBcDGb9l6yo&t=145s
