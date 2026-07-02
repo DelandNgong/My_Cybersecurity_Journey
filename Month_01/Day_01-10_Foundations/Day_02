@@ -1,0 +1,34 @@
+# Access control models
+
+Today being day 2, i did a litle study of access control models and here is a summary of what i learned.
+
+Remember when we spoke of confidentiality yesterday? yes, in order to enforce this (making sure data and resources and only accessed by authorized actors), we need access contol. These are enforcing policies that allows or disallows an individual or group of individuals from accessing data.
+
+Before looking at some common access control models, there is a general best practice for cybersecurity, the Least Privilege principle. It ensures that rights and permisions given to actors are exactly what they need to perfom their task, nothing more. This helps limit the ammount of Damages they can cause. That being said, the following are a few access control models and what they mean.
+
+## Mandatory Access Control (MAC)
+
+Here, every object (data or reource) gets a label. For example you can have labels like confidential, secret, top secret and classified. Then the admins decide who gets access to what kind of label.
+
+
+## Discretionary Access Control (DAC) 
+
+This is where the creator of the resource gets to decide who has access to it and what kind of rights they get. For example you could create a file and share it to some people with only viewing rights, while you decide to share to other people with editing rights.
+
+
+## Role-Based Access Contol (RBAC)
+
+In this case, access is granted based on your role in the organization. Most at times this is done in groups, the admins can have a group for top management, head of departments and low level employees. You can be added to these groups base on your role, and therefore get the privileges of every member of that group.
+
+## Rule-Based Access Control
+
+Here, the system grants access based on rules set by the system admin. For example, the system might have a rule that a particular resource might only be accessed during working hours. In this case, if you try to access this reources out of that rule, even if you are an authenticated user, the system denies access. 
+
+## Atribute-Based Access Control
+
+This is a modern access control model where access to resources is grnated in a flexible manner, based on a collection of attributes and environmental factors such as location, time, IP etc.
+
+# Resources
+
+https://www.youtube.com/watch?v=9ANHcZwJfdQ
+https://www.microsoft.com/en-us/security/business/security-101/what-is-access-control
