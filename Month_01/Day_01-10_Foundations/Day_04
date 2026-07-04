@@ -1,0 +1,28 @@
+# Today, I am taking a look at two concepts: The principle of least privilege and defence in-depth.
+
+## The principle of least privilege
+
+This is a concepts which hold that an entity or user should only have access to the minimum data, systems or resources required to perfomr a particular task. Simply put, it means people dont get access to more than what they need to perform their duties. zfor example, a softeware engineer shouldnt be given access to financial records, neither should a marketer be allowed to access network configurations. This is also a foundational concept behind the ZTNA (Zero-Trust Network Architecture), which is a network security concept in which the network is design and controls are put in place to ensure that not one is trusted or has access to resourcce where the have no business with. This is important in cybersecurity for the following reasons. 
+
+- Reduces the attack surface
+- Limits malware probagation
+- Improves operational performance
+- Safeguards againsr human error
+
+## Defense In-depth
+
+Defense in depth is the idea that one leyer of security is not enough. It incoporates differnt layers of security, such that if one layer is breached, other layers can still cover, or attacks can be stoped before they even uccur. It includes:
+- Physical security : such as gates, padlocks, security guads, cameras etc.
+- Network security controls: Authenticate users and using firewalls to filter network traffic.
+- Administrative controls: enforce policies, organise trainings and determine who has access to what.
+- Access controls for devices: Such as passwords, biometrics, OTPs, MFA.
+- Data protection: through encryption and backups.
+- Behavioral analysis: Uing AI and machine learning to monitor and detect anomalies.
+
+Puting all these controls together helps improves an organization's security posture.
+
+# Resources
+https://www.paloaltonetworks.com/cyberpedia/what-is-the-principle-of-least-privilege
+https://www.youtube.com/watch?v=130ioey4isw
+https://www.fortinet.com/resources/cyberglossary/defense-in-depth
+
