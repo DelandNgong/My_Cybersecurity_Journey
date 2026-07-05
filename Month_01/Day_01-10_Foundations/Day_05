@@ -1,0 +1,20 @@
+# Cryptography
+
+Cryptography is very important component of cybersecurity when it comes to protecting data, be it at rest, use, or transit. Simply put,it is about changing readable data (also known as plaintext) into and unreadable format (also known as ciphertext), using and a "Key". Encryption is the process of converting this plain text to cypher text, while decryption is the opposit. Only the person with the right key can be able to decrypt the cyphertext.
+
+## Symmetric and asymmetric encryption.
+
+Symetric encryption is the type in which the same key is being used to encrypt and decrypt data. This is simple is simple and fast, but the problem comes with securely sharing the key, assymetric encryption handles this perfectly. A common exaplample of symmetric endryption algorithm is the advanced encryption standard (AES).
+
+Assymetric encryption uses two key: a public key which is used to encrypt the data and a private key to decrypt. The public and private keys are mathematically related, but you can not use one to derive the other. An example of asymmetric endryption is the RSA, one of the oldest and most widely used.
+
+## Cryptography helps to ensure the following
+- Confidentiallity: Information is only readable to authorized persons (with the key)
+- Integrity: Information can not be tampered with without being detected (through hashing algorithms)
+- Authentication: The identities of the sender and the receiver can be confirmed.
+- Non-repudiation: The creator or sender of encryted data can not deny their intention to do so
+
+
+# Resources
+https://www.ibm.com/think/topics/cryptography
+https://www.fortinet.com/resources/cyberglossary/what-is-cryptography
