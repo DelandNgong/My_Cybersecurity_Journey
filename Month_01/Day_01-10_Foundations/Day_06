@@ -1,0 +1,22 @@
+# Threat Actors and Vectors, a brief summary.
+
+## Threat Actors 
+
+A threat actor is an entity responsible for or carrying out a cyber attack. They are akso refered to as malicious actors. Threat actors can be classified based on their level of sophistication, level of funding or whether they are internal or external. 
+
+These threat actors usually have different motives, ranging from financial gains, revenge, curiousity to political motives.
+
+Examples of threat actors are hacktivist (for political or phylosophical motives), state sponsored hackers, organized crime and insider hackers (people in the organization).
+
+
+## Threat Vectors
+
+The attack vector is basically the ways through which an attacker uses to try gain access to a system. These are the entery points for the attackers. Example of common threat actors include phishing and social engineering vectors, unpatched software, compromised credentials, USP plug-ins, supply chain vectors etc.
+
+Understanding the common ways through which an actor can gain access to our systems can help us prepare properly and improve our security posture.
+
+
+
+# Resources
+https://www.youtube.com/watch?v=6xUH0t6ugIM
+https://www.youtube.com/watch?v=4lAbGpTDZ18&t=48s
