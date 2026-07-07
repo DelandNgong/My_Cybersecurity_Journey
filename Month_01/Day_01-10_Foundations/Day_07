@@ -1,0 +1,14 @@
+# AUP and BYOD
+
+## An Acceptable Use Policy
+
+An Acceptable Use Policy (AUP) is a formal document that defines the rules and constraints an individual must agree to for access to a corporate network, device, or information system. It serves as a critical behavioral framework that explicitly states what actions are permitted, such as professional communication, and what activities are strictly prohibited, like visiting malicious websites or downloading unauthorized software. By signing an AUP, employees acknowledge their responsibility to protect organizational data, which helps reduce insider threats, lowers legal liability for the company, and establishes a clear basis for disciplinary action in the event of a policy violation.
+
+## Bring Your Own Device
+
+Bring Your Own Device (BYOD) is a corporate policy that permits employees to use their personal smartphones, laptops, and tablets to access company data, systems, and communication networks. While this practice increases workplace flexibility, boosts employee productivity, and significantly reduces corporate hardware procurement costs, it simultaneously introduces substantial cybersecurity risks by expanding the organization's attack surface. To secure a BYOD environment without compromising user privacy, IT departments must implement strict security controls, such as Mobile Device Management (MDM) software, network isolation via VLANs, mandatory multi-factor authentication, and data wiping protocols for lost or stolen devices
+
+# Resources
+
+https://www.neach.org/Cyber-Security-Glossary
+https://www.allot.com/100-plus-cybersecurity-terms-definitions/
