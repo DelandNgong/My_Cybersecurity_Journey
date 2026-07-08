@@ -1,0 +1,28 @@
+# Vulnerability management(5 stages)
+
+A vulnerability is a weakness or fault in a system that can be exploited by an adversory to compromise a system or network. It is important to proactively fight threats and have things under control before they cause damage. Vulnerability management is one of the ways in which this can be done. Below are the five main stages of vulnerability management.
+
+## Discover
+
+This is the initial stage of vulnerability management. It involves running scans accross the network, devices, systems and even people, to have a clear map of the various vulnerabilities that might exist in a system.
+
+## Assess and prioritize
+
+This goes beyond just knowing the vulnerability, but going beyond to get more and detailed information, make sure there are actual vulnerabilities and not false positives. Also includes prioritizing and classifing the vulnerabilities based on the level of risk and potential damage if the vulnerability is exploited.
+
+## Report
+
+This is a clear document detailing the findings in the vulnerability assesment, and also includes recommendations on what to do and how to address these vulnerabilities, based on the associated risk levels.
+
+## Remidiate
+
+This is the point where you address the issues you have identified, starting with the most critical or high risk vulnerability. This could include patching software, addressing backdoors or just regular security awareness training offered to employees.
+
+## Verify
+
+After remediation, the final step is verifying if the mitigation techniques where successfull. Vulnerability management is about reducing the attack surface of the organization, so at the end of it, you need to verify if it has been successfull, or everything is still the same, and also hope you dont cause more trouble instead.
+
+# Resources
+
+https://www.youtube.com/watch?v=LkAptpCZDlc
+

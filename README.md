@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_07
+- **Current Day:**  Day_08
 - **Current Goal:** Foundations (Month_1)
 
 ## Daily Logs
@@ -13,3 +13,4 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 05: Cryptography Basics (Month_01/Day_01-10_Foundations/Day_05)
 - Day 06: Threat Actors and Vectors (Month_01/Day_01-10_Foundations/Day_06)
 - Day 07: AUP and BYOD (Month_01/Day_01-10_Foundations/Day_07)
+- Day 08: Vulnerability Management (Month_01/Day_01-10_Foundations/Day_08)
