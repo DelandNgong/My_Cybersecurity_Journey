@@ -1,0 +1,24 @@
+# Security tools overview
+
+Today i go through a list of some important cybersecurity tools  and what they are used for. A powerful security standing requires a combination of different security tools. Below I will classify the tools into two: Defense tools and Offense tools.
+
+## Attack (offensive/pentesting/Reconnaissance)
+
+- NMap (Network mapper): This is a recon tool, used to scan networks, discover active tools, open ports and operating systems running on them. Think of it as mapping out every door and window in a building (a network).
+- Metasploit Frameworks: This is a standard for we exploitation. Once Nmap finds an open door, Metasploit provides the pre-built code (exploits) to see if that door can actually be broken into
+- Burp Suite: These are Web application proxies. They sit between an analyst's browser and a web app, letting them intercept, inspect, and manipulate live traffic. This is critical for catching flaws like SQL injection or cross-site scripting (XSS).
+- Wireshark: This is a network-snifefer. It captures and analyzes network traffic at a microscopic level. (While used offensively to intercept unencrypted data, it is equally vital defensively for troubleshooting malicious traffic anomalies).
+- Tenable Nessus: This is an automated vulnerability scanner. It systematically checks an entire network infrastructure against a massive database of known bugs, unpatched software, and misconfigurations
+
+
+## Defense (Defensive, monitoring,incident response)
+
+- Splunk/Elastic Security (SIEM Platforms):Security Information and Event Management (SIEM) systems act as the central brain of a security operations center (SOC). They ingest vast walls of log data from routers, endpoints, and firewalls, using AI and custom correlation rules to spot complex attack patterns
+- CrowdStrike Falco/ SentinelOne (EDR/XDR): Endpoint Detection and Response platforms. Moving past traditional antivirus, these platforms use behavioral AI on individual laptops, servers, and cloud workloads to kill, quarantine, and even roll back active ransomware attacks.
+- Security Onion: An open-source, powerful network security monitoring (NSM) suite. It bundles multiple defensive tools (like Snort/Suricata for Intrusion Detection and Zeek for network analysis) into one platform to give defenders full visibility into what is moving across the wire.
+- Fortinet/ Cisco Secure Firewalls (Next-Gen Firewalls): Traditional firewalls just blocked ports; Next-Generation Firewalls (NGFW) inspect the actual payload of network packets in real-time to block sophisticated malware and unauthorized data exfiltration right at the network boundary.
+
+
+
+
+
