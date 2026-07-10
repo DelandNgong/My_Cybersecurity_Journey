@@ -11,7 +11,7 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 03: Security Frameworks and Compliance (Month_01/Day_01-10_Foundations/Day_03)
 - Day 04: Principle of least privilege and defense in depth (Month_01/Day_01-10_Foundations/Day_04)
 - Day 05: Cryptography Basics (Month_01/Day_01-10_Foundations/Day_05)
-- Day 06: Threat Actors and Vectors (Month_01/Day_01-10_Foundations/Day_06)
+- Day 06: Threat Actors and Attack Vectors (Month_01/Day_01-10_Foundations/Day_06)
 - Day 07: AUP and BYOD (Month_01/Day_01-10_Foundations/Day_07)
 - Day 08: Vulnerability Management (Month_01/Day_01-10_Foundations/Day_08)
 - Day 09: Security tools overview (Month_01/Day_01-10_Foundations/Day_09)

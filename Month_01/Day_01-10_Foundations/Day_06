@@ -1,4 +1,4 @@
-# Threat Actors and Vectors, a brief summary.
+# Threat Actors and Attack Vectors, a brief summary.
 
 ## Threat Actors 
 
@@ -9,7 +9,7 @@ These threat actors usually have different motives, ranging from financial gains
 Examples of threat actors are hacktivist (for political or phylosophical motives), state sponsored hackers, organized crime and insider hackers (people in the organization).
 
 
-## Threat Vectors
+## Attack Vectors
 
 The attack vector is basically the ways through which an attacker uses to try gain access to a system. These are the entery points for the attackers. Example of common threat actors include phishing and social engineering vectors, unpatched software, compromised credentials, USP plug-ins, supply chain vectors etc.
 

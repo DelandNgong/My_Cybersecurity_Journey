@@ -10,6 +10,17 @@ Talking about confidentiality, this can be enforced using access control models.
 
 In Cybersecurity, we equality have frameworks and compliances policies. These are like security blueprints or standards put forth by some renoun tech/securtity bodies, for organizations to use when developing their security solutions. Some notable frameworks are the NIST,ISO, COBIS, and CIS Controls. 
 
+Cryptography is another important technology in cybersecurity. Simply put, it is the act of converting readable data (plaintext) into unreadable data (cypher text) using an encryption key. To be able to read the data, one must have the decryption key which is used to convert the cypher text back into plain text. The same key can used for encryption and decryption (this is known as symetric encryption), or two keys can be used, one for encryption and another for decrytion (assymetric encryption).
 
+As a cybersecurity expert, you will be tasked with protecting your organization from malicious actor (also called threat actors). These are entities responsible for carrying out cyber attacks. It could be individuals, organized criminals, government sponsored or hackitivists (political or phylosophical hackers). They do this various reasons, ranging from finamcial motives to politial motivations and beyond. Attack vetors are the ways through which the threat actors use or try to gain access to a system, such as phising, social engineering techniques or simply unpatched software, These are basically "directions of entry" for the bad guys.
 
+There will be various security policies to adhere to to cyber safety in every organizations. The Acceptable use policy (AUP) is one of those. It simply spells out the rules and contriants and individual must comply with before having access to coorporate network or resources, so make sure you check out what your organization has to say about this.
+
+One important thing the bad guys will always watch out for and pray to find are vulnerabilities. These are weaknesses or flaws in the system that they can exploit to gain access to the system or launch an attack. You can still spot some of these vulnerabilities before the bad guys do, through ethical hacking, then manage the vuknerabilities properly. Vulnerability management has five main steps: Discover the vulnerability, assess the nature and associated risk, report your findings, remediate (provide a solution) and verify if the remediation was successful.
+
+Depending on what side of security you are working on , maybe densive side (proactively protecting the network), or the offensive side (ethically breaking into systems to discover and report vulnerabilities that should be fixed before the bad guys exploit them), or maybe both, you will need some tools. These tools are your weapons as a "cyber_warrior" some commonly used tools includes: NMap, Wireshark, metasploit (for offense) and Security onion, Fortinet (for defense). As you would expect, there are many more tools, you can search specific tolls based on your area of interest. 
+
+Cybersecurity is a broad an interesting field, and this article was is just a quick summary of some foundational cybersecurity concepts, i hope you find this helpful. At the point of writing this, I am currently embarking on my cybersecurity journey, so if you are new as well, you've got this. Go out there and explore, make and break things (legally ofcourse), and above all, keep learning.
+
+by Ngong Deland Ngong
 
