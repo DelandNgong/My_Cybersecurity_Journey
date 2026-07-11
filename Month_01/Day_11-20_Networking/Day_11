@@ -1,0 +1,16 @@
+# Intro to networking and OSI model
+
+Understanding networks as a cybersecurity professional is fundamental. Networks serve as the infrastructure, or the playground on which you will be working. All the devices you will be securing or working with will be on or part part of some network, so understanding how networks work (and broadly the internet), will give you and upperhand and perfect mastery of the environment on which you work. A network is simply the interconection of devices, to share information and resources. Cyber criminals also use these same networks to share malware, break into systems etc. So networking is an important coponent of cybersecurity.
+
+The internet as mentioned earlier , is a global network. In every network, there are rules that govern how information is been shared and how comminication is done, and the internet is not exception. These rules are called protocols, and there is a ton of them you will come accross in eache point. There are models that explain different layers of the internet and the protocols that govern then. These are TCP/IP model and the OSI model. Here, we shall briefly look at the differet layers of the OSI model
+
+## Open System Interconection (OSI) Model
+The ISO model is a 7 leyer model, developed by the International Standards Organizaion (ISO) in 1984, to standardize communication between computer systems. The 7 layers are as follows
+
+- Application layer
+- Presentation layer
+- Session layer
+- Transport layer
+- Network layer
+- Data link layer
+- Physical leyer
