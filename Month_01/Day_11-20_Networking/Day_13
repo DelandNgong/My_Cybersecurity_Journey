@@ -1,0 +1,5 @@
+# IP Addressing and Subnetting
+
+Remember we talked briefly about networks and the internet. Every device connected to the internet has an address, specifically an IP address, These are logical addresses used to identify devices on the internet. IP addressing uccurs at the Network layer (layer 3 of the OSI model), this layer if responsible for routing packets. 
+
+There are two types of IP Addressed, IPv4 and IPv6. IPv4 addresse are 32-bit in lenght, and provide about 4.3 billion unique address. But we know there are way more people than that, and with growing number of devices, we get to a point where 4.3 billion address can't serve all these devices. This is where IPv6 comes in. This is a  128-bit address, and definely has more address than IPv4, about 340 undecillion addresses.
