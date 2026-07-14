@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_13
+- **Current Day:**  Day_14
 - **Current Goal:** Networking Foundations (Month_1)
 
 ## Daily Logs
@@ -19,3 +19,5 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 11: Intro to Networking and OSI model (Month_01/Day_11-20_Networking/Day_11)
 - Day 12: TCP/IP and the 3-way handshake (Month_01/Day_11-20_Networking/Day_12)
 - Day 13: IP Addressing & Subnetting (Month_01/Day_11-20_Networking/Day_13)
+- Day 14: Ports, Protocols and Services (Month_01/Day_11-20_Networking/Day_14)
+
