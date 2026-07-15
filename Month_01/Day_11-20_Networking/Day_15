@@ -1,0 +1,26 @@
+# DHCP and DNS
+
+## DHCP (Dynamic host configuration protocol)
+This is a service that automatically hands out network configurations setings and IP addresses to devices that just joined a network. When you machine joins a network, it it acts as a clients and searches for the DHCP server. The server maintains a pool of IP addresses which it allocates one to you device. It also automatically handles details like the default gateway and other network configs.
+
+It is important because it simplifies the admistrator's work, and they dont get to maually allocate IP addresses for each and every device on the network (Static configuration)
+
+
+## DNS (Domain Name System)
+
+This serves as a translator for IP addresses. When visiting a website, we type in the a URL or website name, but this has to be translate into the actual IP addresses that computers use. The DNS helps do this transalation. When we type in the website name, the DNS server searches and finds the corresponding IP address, the our site is renderd. 
+
+This is important in that it makes browing user friendly. We dont need to memorize complex addresses, we just type in the name or URL. For example, you type in www.google.com instead of having to memorize and type 216.58.207.206 
+
+# Note
+
+Both protocols are critical to cybersecurity because they control how your devices connect and where your data goes. If a hacker compromises your DHCP, they can secretly intercept your network traffic, and if they exploit DNS, they can redirect your browser to fake, malicious websites designed to steal your passwords.
+
+
+
+# Resources
+https://study-ccna.com/dhcp-dns/
+https://www.youtube.com/watch?v=mpQZVYPuDGU&t=44s
+
+
+
