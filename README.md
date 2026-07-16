@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_15
+- **Current Day:**  Day_16
 - **Current Goal:** Networking Foundations (Month_1)
 
 ## Daily Logs
@@ -21,4 +21,5 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 13: IP Addressing & Subnetting (Month_01/Day_11-20_Networking/Day_13)
 - Day 14: Ports, Protocols and Services (Month_01/Day_11-20_Networking/Day_14)
 - Day 15: DHCP and DNS (Month_01/Day_11-20_Networking/Day_15)
+- Day 16: Netwrok Devices (Month_01/Day_11-20_Networking/Day_16)
 

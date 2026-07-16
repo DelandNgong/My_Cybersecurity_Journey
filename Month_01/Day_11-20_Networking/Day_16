@@ -1,0 +1,27 @@
+# Some Network Devices
+
+For cybersecurity, these are the four core network devices to know:
+
+- Switch – Connects devices within the same local network (LAN). It uses MAC addresses to forward data only to the intended device, making communication faster and reducing unnecessary traffic.
+Example: Connects computers, printers, and servers in an office.
+
+- Router – Connects different networks together, such as your home network to the Internet. It uses IP addresses to determine the best path for data packets.
+Example: Your home Wi-Fi router connects your devices to the Internet.
+
+- Firewall – A security device (hardware or software) that monitors and filters incoming and outgoing network traffic based on predefined security rules. It blocks unauthorized access while allowing legitimate traffic.
+Example: Prevents hackers from accessing your internal network.
+
+- Access Point (AP) – Provides wireless (Wi-Fi) connectivity to devices and connects them to the wired network. It extends or creates a wireless network.
+Example: The Wi-Fi access points in a university or office building
+
+# Easy way to remember:
+
+Switch = Connects devices
+Router = Connects networks
+Firewall = Protects the network
+Access Point = Provides Wi-Fi
+
+# resources
+
+https://www.youtube.com/watch?v=3Ph0_WJKCpE
+https://www.router-switch.com/faq/router-vs-switch-vs-firewall.html
