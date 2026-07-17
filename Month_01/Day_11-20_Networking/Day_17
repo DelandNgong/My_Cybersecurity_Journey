@@ -3,3 +3,5 @@
 - Wireshark is a free, open-source network protocol analyzer used to capture and inspect network traffic in real time. It allows users to see the data packets being transmitted across a network, making it one of the most widely used tools for network analysis and cybersecurity
 
 - In cybersecurity, Wireshark is used to troubleshoot network problems, analyze network performance, detect suspicious activity, and investigate security incidents. It can display detailed information about protocols, IP addresses, ports, and packet contents, helping administrators and security analysts understand how devices communicate and identify potential threats or misconfigurations
+
+in this folder you will find a files folder with a packet capture from my wifi, showing network traffic and different protocols.
