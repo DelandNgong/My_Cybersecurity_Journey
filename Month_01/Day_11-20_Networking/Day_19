@@ -1,0 +1,30 @@
+# Wireless security and VPNs
+
+## Wireless Security
+
+- Wireless security refers to the measures used to protect Wi-Fi networks from unauthorized access, data theft, and cyberattacks. It uses authentication and encryption protocols to ensure that only authorized users can connect to the network and that data transmitted over the air remains private.
+
+## WPA3 vs WEP
+
+- WPA3 (Wi-Fi Protected Access 3) – The latest and most secure Wi-Fi security protocol. It provides stronger encryption, better protection against password guessing attacks, and improved security even when weak passwords are used. WPA3 is the recommended standard for modern wireless networks.
+
+- WEP (Wired Equivalent Privacy) – The first Wi-Fi security protocol, now considered obsolete and insecure. WEP uses weak encryption that can be cracked within minutes using readily available tools, making it unsuitable for protecting wireless networks.
+
+## Virtual Private Networks (VPNs)
+
+A Virtual Private Network (VPN) is a technology that creates a secure, encrypted tunnel between a user's device and a VPN server over the Internet. This encryption protects data from being intercepted by hackers, Internet Service Providers (ISPs), or other third parties, especially when using public Wi-Fi.
+
+## How a VPN Works
+
+1. Your device connects to a VPN server.
+2. The VPN encrypts all data leaving your device.
+3. The encrypted data travels securely through the Internet to the VPN server.
+4. The VPN server decrypts the data and forwards it to the destination website or service.
+5. Responses follow the same encrypted path back to your device.
+
+## Benefits of a VPN:
+
+- Encrypts Internet traffic to protect sensitive data.
+- Hides your real IP address by replacing it with the VPN server's IP.
+- Improves privacy and security, especially on public Wi-Fi networks.
+- Can help bypass geographic restrictions on online content.

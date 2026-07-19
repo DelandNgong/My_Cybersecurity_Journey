@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_18
+- **Current Day:**  Day_19
 - **Current Goal:** Networking Foundations (Month_1)
 
 ## Daily Logs
@@ -24,4 +24,5 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 16: Netwrok Devices (Month_01/Day_11-20_Networking/Day_16)
 - Day 17: Intro to Wireshark (Month_01/Day_11-20_Networking/Day_17)
 - Day 18: Common Network Attacks (Month_01/Day_11-20_Networking/Day_18)
+- Day 19: Wireless security and VPNs (Month_01/Day_11-20_Networking/Day_19)
 
