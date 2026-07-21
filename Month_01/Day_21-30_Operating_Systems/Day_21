@@ -1,1 +1,12 @@
-# Windows
+# Introduction to Operating Systems
+
+An Operating System (OS) is the software that manages a computer's hardware and software resources. It acts as the bridge between the user, applications, and the computer's hardware, allowing programs to run, files to be stored, memory to be managed, and devices such as keyboards, printers, and network adapters to function correctly. Without an operating system, a computer cannot operate in a practical way.
+
+Some of the most common operating systems include **Microsoft Windows**, **Linux**, **macOS**, **Android**, and **iOS**. Windows is the most widely used desktop operating system, while Linux is popular for servers, cloud computing, and cybersecurity because of its flexibility and security features. macOS powers Apple computers, and Android and iOS are the dominant mobile operating systems.
+
+Operating systems are a major focus in cybersecurity because they control access to a computer's resources and enforce security policies. If an attacker compromises the operating system, they can often gain control of the entire machine. Security professionals therefore study how operating systems manage **users and permissions**, **file systems**, **processes and memory**, **authentication**, **system logs**, **services**, and **security updates**. Understanding these components is essential for identifying vulnerabilities, securing systems, and responding to cyber threats.
+
+# resources
+https://www.youtube.com/watch?v=vBURTt97EkA&t=12s
+https://en.wikipedia.org/wiki/Operating_system
+
