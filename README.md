@@ -2,8 +2,8 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_20
-- **Current Goal:** Networking Foundations (Month_1)
+- **Current Day:**  Day_21
+- **Current Goal:** Operating Systems (Month_1)
 
 ## Daily Logs
 - Day 01: CIA Tiad (Month_01/Day_01-10_Foundations/Day_01)
@@ -26,4 +26,6 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 18: Common Network Attacks (Month_01/Day_11-20_Networking/Day_18)
 - Day 19: Wireless security and VPNs (Month_01/Day_11-20_Networking/Day_19)
 - Day 20: Project 02, Secure Network Architecture (Month_01/Day_11-20_Networking/Project_02_SecureNetworkArchitecture)
+- Day 21: Operating systems (Month_01/Day_21-30_Operating_Systems/Day_21)
+
 
