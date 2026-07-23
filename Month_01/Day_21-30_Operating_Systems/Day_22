@@ -1,1 +1,16 @@
-# Day off
+# Processes and Threads
+
+## Process 
+This is an instance of a running program. It has its own memory space, resources, and system information needed to execute. For example, opening Microsoft Word or Google Chrome creates one or more processes in Windows.
+
+## Thread
+This is the smallest unit of execution within a process. A single process can contain multiple threads that run tasks concurrently while sharing the same memory and resources. For example, a web browser may use separate threads to load web pages, play videos, and respond to user input at the same time.
+
+# Importance in Cybersecurity
+
+Processes and threads are important in cybersecurity because **malware always runs as a process or injects itself into legitimate processes to avoid detection**. Security analysts monitor running processes and their threads to identify suspicious behavior, unauthorized programs, or malicious code execution. Understanding how processes and threads work is essential for malware analysis, digital forensics, incident response, and threat detection.
+
+# Resources
+
+https://www.youtube.com/watch?v=OrM7nZcxXZU
+https://www.geeksforgeeks.org/operating-systems/difference-between-process-and-thread/
