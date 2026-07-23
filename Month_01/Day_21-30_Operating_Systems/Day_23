@@ -1,0 +1,15 @@
+# Memory Management
+
+Memory management is the function of an operating system that controls how a computer's Random Access Memory (RAM) is allocated, used, and freed. It ensures that each running process receives enough memory to execute efficiently while preventing one process from interfering with another. When memory is no longer needed, the operating system reclaims it so it can be used by other programs.
+
+Modern operating systems also use virtual memory, which combines RAM with disk storage to give programs the illusion of having more memory than is physically available. This allows multiple applications to run simultaneously, even when RAM is limited, while maintaining system stability and performance.
+
+# Importance in Cybersecurity
+
+Memory management is a critical area in cybersecurity because many attacks target how an operating system handles memory. Vulnerabilities such as **buffer overflows**, **memory leaks**, and **use-after-free** bugs can allow attackers to execute malicious code, crash applications, or gain unauthorized access to a system. Security mechanisms like **Address Space Layout Randomization (ASLR)** and **Data Execution Prevention (DEP)** are built into modern operating systems to make memory-based attacks more difficult.
+
+Understanding memory management helps cybersecurity professionals analyze malware, identify software vulnerabilities, investigate exploits, and better understand how attackers compromise systems. It is a fundamental concept in penetration testing, malware analysis, exploit development, and digital forensics.
+
+# Resources
+
+https://www.youtube.com/watch?v=UDPYpf-nsDY

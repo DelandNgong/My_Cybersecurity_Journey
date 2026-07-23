@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_22
+- **Current Day:**  Day_23
 - **Current Goal:** Operating Systems (Month_1)
 
 ## Daily Logs
@@ -28,6 +28,6 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 20: Project 02, Secure Network Architecture (Month_01/Day_11-20_Networking/Project_02_SecureNetworkArchitecture)
 - Day 21: Operating systems (Month_01/Day_21-30_Operating_Systems/Day_21)
 - Day 22: Processes and Threads (Month_01/Day_21-30_Operating_Systems/Day_22)
-- Day 23: 
+- Day 23: Memory Management Summary (Month_01/Day_21-30_Operating_Systems/Day_23)
 
 
