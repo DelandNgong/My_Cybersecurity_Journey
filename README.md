@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_23
+- **Current Day:**  Day_24
 - **Current Goal:** Operating Systems (Month_1)
 
 ## Daily Logs
@@ -29,5 +29,6 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 21: Operating systems (Month_01/Day_21-30_Operating_Systems/Day_21)
 - Day 22: Processes and Threads (Month_01/Day_21-30_Operating_Systems/Day_22)
 - Day 23: Memory Management Summary (Month_01/Day_21-30_Operating_Systems/Day_23)
+- Day 24: Windows File Sytems. Users, Groups and Permissions (Month_01/Day_21-30_Operating_Systems/Day_24)
 
 

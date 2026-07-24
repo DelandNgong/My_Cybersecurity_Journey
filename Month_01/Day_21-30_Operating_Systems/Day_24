@@ -1,0 +1,89 @@
+# Windows File System
+
+A file system is how an operating system organizes, stores, and retrieves files on a storage device.
+The primary Windows file system is NTFS (New Technology File System).
+
+## NTFS provides:
+
+- File and folder organization
+- Permissions (Access Control Lists)
+- Encryption (EFS)
+- Compression
+- Journaling for recovery after crashes
+- Large file support
+
+Windows may also use FAT32 or exFAT for USB drives, but NTFS is the standard for modern Windows systems.
+
+## Why NTFS matters in Cybersecurity
+
+Many attacks involve files.
+
+Security analysts examine:
+
+- File permissions
+- Hidden files
+- Alternate Data Streams (ADS)
+- Recently modified files
+- Malware executables
+- File ownership
+
+NTFS permissions are one of the first lines of defense against unauthorized access.
+
+# Users, Groups, and Permissions Users
+
+## A user is an individual account that can log into the operating system.
+
+Examples:
+
+- Administrator
+- John
+- Guest
+
+Each user has:
+
+- A username
+- A password
+- A unique Security Identifier (SID)
+- Assigned permissions
+
+## Groups
+
+A group is a collection of users that share the same permissions.
+
+Examples:
+
+- Administrators
+- Users
+- Remote Desktop Users
+- Backup Operators
+
+Instead of assigning permissions individually, administrators assign users to groups.
+This makes managing security much easier.
+
+## Permissions
+
+Permissions determine what a user or group is allowed to do.
+
+Common permissions include:
+
+- Read
+- Write
+- Execute
+- Modify
+- Delete
+- Full Control
+
+Windows uses Access Control Lists (ACLs) to enforce these permissions.
+
+## Why Users, Groups, and Permissions matter in Cybersecurity
+
+These are the foundation of access control.
+
+Many attacks attempt to:
+
+- Steal user credentials.
+- Escalate privileges from a standard user to an administrator.
+- Abuse accounts with excessive permissions.
+- Access files without authorization.
+
+Security professionals therefore audit user accounts, review group memberships, enforce the principle of least privilege (users receive only the permissions they need), and monitor changes to permissions or privileged groups. Proper management of users, groups, and permissions significantly reduces the risk of unauthorized access and limits the damage if an account is compromised.
