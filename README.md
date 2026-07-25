@@ -30,5 +30,5 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 22: Processes and Threads (Month_01/Day_21-30_Operating_Systems/Day_22)
 - Day 23: Memory Management Summary (Month_01/Day_21-30_Operating_Systems/Day_23)
 - Day 24: Windows File Sytems. Users, Groups and Permissions (Month_01/Day_21-30_Operating_Systems/Day_24)
-
+- Day 25: Day off
 
