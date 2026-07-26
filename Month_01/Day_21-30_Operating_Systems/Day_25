@@ -1,0 +1,17 @@
+## Windows Services
+
+**Windows Services** are programs that run in the background without requiring user interaction. They start automatically when Windows boots (or manually when needed) and perform essential system functions such as networking, printing, updates, security, and database management.
+
+### Importance in Cybersecurity
+
+Windows Services are important because attackers often target them to **maintain persistence** on a compromised system. Malware can create or modify services so that malicious programs automatically start whenever the computer boots. During incident response, security analysts examine running services to identify unauthorized or suspicious services that may indicate a system compromise.
+
+
+
+## Task Scheduler
+
+**Task Scheduler** is a Windows utility that allows users and administrators to automatically run programs, scripts, or commands at specific times or when certain events occur. For example, it can be used to perform system maintenance, backups, or software updates without manual intervention.
+
+### Importance in Cybersecurity
+
+Task Scheduler is commonly abused by attackers to **achieve persistence**. A malicious program can create a scheduled task that runs every time a user logs in or at a specific time, allowing malware to execute repeatedly without the user's knowledge. As a result, security professionals routinely inspect scheduled tasks during malware investigations and digital forensic analysis to detect unauthorized or suspicious activity.
