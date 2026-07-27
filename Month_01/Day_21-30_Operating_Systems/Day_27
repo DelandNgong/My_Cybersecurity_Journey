@@ -1,0 +1,48 @@
+# Linux Fundamentals
+
+
+Linux is a free and open-source operating system built around the Linux kernel, 
+the core component responsible for managing hardware resources and enabling communication
+between software and hardware. It is known for its stability, security, flexibility, and 
+performance, making it one of the most widely used operating systems in servers, cloud computing, 
+embedded systems, and cybersecurity.
+
+## Kernel vs Distro
+
+It is important to distinguish between the Linux kernel and a Linux distribution (distro). The
+kernel is the core of the operating system that manages processes, memory, hardware, and system
+resources. A distribution combines the Linux kernel with system utilities, software packages, and
+a user interface to create a complete operating system. Popular Linux distributions include Ubuntu,
+Debian, Fedora, Arch Linux, CentOS, and Kali Linux, each designed for different purposes.
+
+## Everything is a file
+
+Linux is built on the philosophy that "everything is a file." This means that files, directories,
+hardware devices, and many system resources are accessed through a unified file system. The Linux file
+system begins at the root directory (/), from which all other directories branch. Important directories
+include:
+
+/home – User home directories and personal files.
+/etc – System configuration files.
+/bin – Essential user commands and executable programs.
+/usr – User applications and shared system files.
+/var – Variable data such as logs and databases.
+/tmp – Temporary files.
+/proc – Virtual files containing process and kernel information.
+/dev – Device files representing hardware components.
+
+## Users, Groups and Permissions
+
+Linux also uses users, groups, and permissions to control access to system resources.
+Every file and directory has an owner, an associated group, and a set of permissions that
+determine who can read (r), write (w), or execute (x) it. The root user has unrestricted access
+to the system, while regular users are granted only the permissions they need. This follows the
+Principle of Least Privilege, which minimizes security risks by limiting unnecessary access.
+
+## Significance
+
+Linux is a cornerstone of cybersecurity because it powers most web servers, cloud platforms,
+and network infrastructure. Security professionals rely on Linux for penetration testing,
+digital forensics, malware analysis, incident response, and system administration. A solid
+understanding of Linux fundamentals provides the foundation for learning advanced cybersecurity
+concepts and using industry-standard security tools.
