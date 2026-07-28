@@ -1,0 +1,38 @@
+# Linux System Management
+
+Linux system management involves monitoring and maintaining the operating system to ensure it runs efficiently, securely, and reliably. This includes managing processes, services, software packages, and system logs, all of which are essential for system administration and cybersecurity.
+
+## Processes and Daemons
+
+A process is an instance of a running program. Each process is assigned a unique Process ID (PID), which the operating system uses to identify and manage it. Some processes run only while a program is open, while others run continuously in the background.
+
+Background processes in Linux are called daemons. They provide essential services such as web hosting, networking, printing, and secure remote access (SSH). Daemons typically start automatically when the system boots and continue running until they are stopped or the system shuts down.
+
+## Package Management
+
+Linux software is distributed as packages, which contain applications and the files needed to install them. A package manager automates the installation, updating, and removal of software while handling dependencies between packages.
+
+## Different Linux distributions use different package managers:
+
+- APT – Debian, Ubuntu, Kali Linux
+- DNF – Fedora
+- YUM – Older Red Hat and CentOS systems
+- Pacman – Arch Linux
+
+Keeping packages up to date is an important security practice because updates often include patches for newly discovered vulnerabilities.
+
+# System Logs
+
+Linux records system events in log files, most of which are stored in the /var/log directory. These logs contain information about user logins, system errors, application activity, and security events.
+
+System administrators and security analysts use log files to troubleshoot problems, monitor system health, detect suspicious activity, and investigate security incidents.
+
+## Services and systemd
+
+Many Linux distributions use systemd to manage system services. It starts essential services during boot, monitors their status, and controls when they start or stop. Examples of services include web servers, database servers, and the SSH service.
+
+Understanding how services work is important because critical applications depend on them, and attackers may attempt to modify or abuse services to maintain persistence on a compromised system.
+
+# Importance in Cybersecurity
+
+Linux system management is fundamental to cybersecurity because it provides visibility into how a system operates. Monitoring processes helps identify malicious programs, keeping software updated reduces known vulnerabilities, log analysis reveals signs of attacks, and managing services prevents unauthorized or unnecessary programs from running. These skills are essential for system hardening, malware analysis, digital forensics, and incident response.
