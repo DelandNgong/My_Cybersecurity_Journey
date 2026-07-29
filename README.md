@@ -34,4 +34,5 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 26: Windows Event Logs and Security Features (Month_01/Day_21-30_Operating_Systems/Day_26)
 - Day 27: Linux Fundamentals (Month_01/Day_21-30_Operating_Systems/Day_27)
 - Day 28: Linux System Management (Month_01/Day_21-30_Operating_Systems/Day_28)
+- Day 29: Linux in Cybersecurity (Month_01/Day_21-30_Operating_Systems/Day_29)
 

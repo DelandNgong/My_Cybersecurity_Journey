@@ -1,0 +1,11 @@
+# Linux in Cybersecurity
+
+Linux is the backbone of modern cybersecurity because it powers most web servers, cloud platforms, network infrastructure, and security appliances. Its stability, security, flexibility, and open-source nature make it the preferred operating system for cybersecurity professionals. Since many real-world systems run Linux, understanding how it works is essential for both defending and attacking computer systems in an ethical manner.
+
+One of Linux's greatest strengths is its powerful command-line interface (CLI), which allows users to efficiently manage files, processes, services, and networks. Linux is also highly customizable, enabling organizations to configure systems according to their security requirements. Being open source means its code can be reviewed by developers and security researchers worldwide, helping identify and fix vulnerabilities more quickly.
+
+Kali Linux is one of the most popular Linux distributions for cybersecurity. It comes pre-installed with hundreds of tools used for penetration testing, digital forensics, vulnerability assessment, wireless security testing, and malware analysis. Kali is designed specifically for security professionals and learners, making it a standard platform for ethical hacking.
+
+Securing a Linux system, a process known as Linux hardening, is an important responsibility for system administrators. Hardening involves keeping the system updated, using strong passwords, applying the Principle of Least Privilege, configuring firewalls, securing remote access (SSH), disabling unnecessary services, and regularly monitoring logs for suspicious activity. These practices reduce the attack surface and make systems more resistant to cyber threats.
+
+Linux plays a vital role for both offensive and defensive cybersecurity teams. Red Teams use Linux to perform penetration testing, exploit vulnerabilities, and assess the security of systems. Blue Teams use Linux to monitor systems, analyze logs, investigate incidents, harden servers, and respond to attacks. Regardless of the role, a solid understanding of Linux is considered a fundamental skill for anyone pursuing a career in cybersecurity.
