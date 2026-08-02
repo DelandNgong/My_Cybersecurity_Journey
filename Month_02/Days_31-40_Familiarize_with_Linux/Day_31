@@ -1,0 +1,72 @@
+# Today, I covered 10 Basic Linux Commands
+
+1. cd (Change Directory)
+
+Changes the current working directory to another location in the file system.
+
+Example:
+
+cd Documents
+2. cd ..
+
+Moves one level up to the parent directory.
+
+Example:
+
+cd ..
+3. ls (List)
+
+Displays the contents of the current directory, including files and folders.
+
+Example:
+
+ls
+4. pwd (Print Working Directory)
+
+Displays the full path of the current directory.
+
+Example:
+
+pwd
+5. mkdir (Make Directory)
+
+Creates a new directory (folder).
+
+Example:
+
+mkdir Projects
+6. touch
+
+Creates a new empty file.
+
+Example:
+
+touch notes.txt
+7. cp (Copy)
+
+Copies a file or directory to another location while keeping the original.
+
+Example:
+
+cp notes.txt Backup/
+8. mv (Move)
+
+Moves a file or directory to a new location. It can also be used to rename files or directories.
+
+Example:
+
+mv notes.txt Documents/
+9. rm (Remove)
+
+Deletes files or directories. Use this command carefully because deleted files cannot be easily recovered.
+
+Example:
+
+rm notes.txt
+10. sudo (Superuser Do)
+
+Runs a command with administrator (root) privileges. It is required for tasks that modify system settings or install software.
+
+Example:
+
+sudo apt update

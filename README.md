@@ -2,7 +2,7 @@
 I am currently on a 365-day journey to master cybersecurity
 
 ## Current Status
-- **Current Day:**  Day_30
+- **Current Day:**  Day_32
 - **Current Goal:** Hands-on Linux (Month_2)
 
 ## Daily Logs
@@ -36,5 +36,8 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 28: Linux System Management (Month_01/Day_21-30_Operating_Systems/Day_28)
 - Day 29: Linux in Cybersecurity (Month_01/Day_21-30_Operating_Systems/Day_29)
 - Day 30: Project_03 (Month_01/Day_21-30_Operating_Systems/Operating_Systems_and_Cybersecurity)
+- Day 31: Basic Linus Commands (Month_02/Day_31-40_Familiarize_with_Linux/Day_31)
+
+
 
 
