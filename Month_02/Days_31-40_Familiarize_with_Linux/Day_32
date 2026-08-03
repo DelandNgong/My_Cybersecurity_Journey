@@ -1,0 +1,33 @@
+# Permissions and ownership
+
+Linux protects files and directories using a permission system that controls who can access a file and what they can do with it. Every file and directory has an owner, a group, and a set of permissions. This access control model is one of the main reasons Linux is considered a secure operating system.
+
+## Ownership
+
+Every file has:
+
+Owner (User) – The user who owns the file.
+Group – A group of users who may share access.
+Others – Everyone else on the system.
+
+## File Permissions
+
+Linux uses three basic permissions.
+
+Read (r)
+
+Allows viewing the contents of a file.
+
+For directories, it allows listing the contents.
+
+Write (w)
+
+Allows modifying a file.
+
+For directories, it allows creating or deleting files inside.
+
+Execute (x)
+
+Allows a file to be run as a program or script.
+
+For directories, it allows entering (accessing) the directory.
