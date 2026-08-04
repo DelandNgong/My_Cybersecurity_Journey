@@ -1,0 +1,63 @@
+Today I practiced Linux file permissions and learned how Linux controls access to files and directories.
+
+Core Concepts
+
+Linux permissions are assigned to three categories:
+
+Owner (u) – The user who owns the file.
+Group (g) – Users belonging to the file's group.
+Others (o) – Everyone else.
+
+The three basic permissions are:
+
+r (Read) = 4
+w (Write) = 2
+x (Execute) = 1
+
+Permission numbers are created by adding these values:
+
+7 = rwx
+6 = rw-
+5 = r-x
+4 = r--
+0 = ---
+
+For example:
+
+600 = rw-------
+644 = rw-r--r--
+700 = rwx------
+755 = rwxr-xr-x
+
+The first number represents the owner, the second the group, and the third others.
+
+Commands Practiced
+ls -l
+
+View file permissions and ownership.
+
+chmod 600 secret.txt
+
+Change permissions on a file.
+
+whoami
+
+Show the current user.
+
+groups
+
+Show the groups the current user belongs to.
+
+I also learned that chown changes file ownership and chgrp changes the assigned group.
+
+Practical
+
+I created a permission-lab directory and experimented with a secret.txt file:
+
+mkdir ~/permission-lab
+cd ~/permission-lab
+touch secret.txt
+
+I then changed its permissions using chmod and observed the results with ls -l.
+
+The main security lesson is that Linux permissions provide access control and support the Principle of Least Privilege by ensuring users only have the access they actually need.
