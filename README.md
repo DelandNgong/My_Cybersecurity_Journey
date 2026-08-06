@@ -40,6 +40,8 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 32: Familiarize with linux (Month_02/Day_31-40_Familiarize_with_Linux/Day_32)
 - Day 33: Linux Permissions (Month_02/Day_31-40_Familiarize_with_Linux/Day_33)
 - Day 34: Practice CommandLine
+- Day 35: Practice CommandLine
+
 
 
 
