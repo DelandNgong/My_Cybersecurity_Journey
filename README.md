@@ -43,6 +43,7 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 35: Practice CommandLine
 - Day 36: Practice CommandLine
 - Day 37: Practice CommandLine
+- Day 38: //
 
 
 
