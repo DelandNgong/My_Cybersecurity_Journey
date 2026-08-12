@@ -45,7 +45,9 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 37: Practice CommandLine
 - Day 38: //
 - Day 39: preparing for exams
-- Day 340: preparing for exams
+- Day 40: preparing for exams
+- Day 41: preparing for exams
+
 
 
 
