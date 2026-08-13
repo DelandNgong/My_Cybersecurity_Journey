@@ -47,6 +47,7 @@ I am currently on a 365-day journey to master cybersecurity
 - Day 39: preparing for exams
 - Day 40: preparing for exams
 - Day 41: preparing for exams
+- Day 42: preparing for exams
 
 
 
